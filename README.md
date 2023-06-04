@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dcordoba
+- 👋 Hi, I’m David Córdoba
 - 👀 I’m interested in software development
 - 🌱 I’m currently a cursus student at 42 Network Barcelona campus
 
